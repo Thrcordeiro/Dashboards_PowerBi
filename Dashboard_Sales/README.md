@@ -18,3 +18,6 @@ Problemas propostos:
 
 8. Coloque os indicadores desenvolvidos acima em gráficos/tabelas, numa página com design atrativo
 
+Baixar arquivos Dashboard_Sales.pbix e Banco de dados.xlsx, para vizualizar no Power Bi
+
+link do relatório na web: https://app.powerbi.com/view?r=eyJrIjoiNjgzMGVlY2QtODI2Yi00YmNiLTlhOTctYTA1ZmY2OTBhMTI5IiwidCI6IjAzNjc2NDdmLWFkYmUtNGE1My1iZThkLTc0Y2VkNTM3NTkyNCJ9
